@@ -1,4 +1,4 @@
-# 🌟 Welcome to Arsam's GitHub Profile! 🌟  
+# 🌟 Welcome to Bardia's GitHub Profile! 🌟  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=600&lines=Hey+there!+I'm+Bardia+👋;Web+Developer+%7C+Tech+Enthusiast;Lover+of+Frontend+Elegance+and+Clean+Code!)](https://git.io/typing-svg)
 
